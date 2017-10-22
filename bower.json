@@ -1,0 +1,7 @@
+{
+    "name": "socket fiddle",
+    "version": "0.0.2",
+    "dependencies": {
+        "osc.js": "2.2.0"
+    }
+}
