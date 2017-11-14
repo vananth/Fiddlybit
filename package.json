@@ -5,8 +5,8 @@
   "dependencies": {
     "express": "^4.15.2",
     "jquery": "^3.2.1",
-    "osc-js": "^1.0.5",
     "osc": "2.2.0",
+    "osc-js": "^1.2.0",
     "osc-min": "^1.1.1",
     "socket.io": "^2.0.3"
   }
